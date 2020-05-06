@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/img/1976.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/img/1980.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/img/1984.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/img/1988.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/img/1992.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/img/1994.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/img/1998.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/img/2002.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/img/2006.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/img/2010.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/img/2014.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/img/2018.png",
+    "clicked": false
+  }
+]
